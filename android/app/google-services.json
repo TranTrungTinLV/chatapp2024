@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016474955951",
+    "project_id": "chatapp2024-30077",
+    "storage_bucket": "chatapp2024-30077.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016474955951:android:5daac5b1d6d3a33702e45a",
+        "android_client_info": {
+          "package_name": "com.tintran.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZLkGmO97YW7aYvpcEqGb-2LA6hQbrzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
